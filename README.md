@@ -1,0 +1,2 @@
+# SyntaurusPrivacyPolicy
+Syntaurus Privacy Policy
